@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Taula
+=======
+# Materials necesaris per la barbacoa
+
+Cadires
+Graella
+>>>>>>> upstream/master

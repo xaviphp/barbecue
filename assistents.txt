@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Christian
+=======
+Toni
+Juanma
+Joan
+Zhiwei
+>>>>>>> upstream/master
